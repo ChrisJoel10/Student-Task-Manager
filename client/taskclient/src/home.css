@@ -1,0 +1,64 @@
+.centeralign
+{
+    text-align: center;
+}
+.center
+{
+    margin: auto;
+    width:40%;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.center1
+{
+    margin: auto;
+    width:25%;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    padding: 20px;
+    text-align:center;
+}
+h1
+{
+    text-align:center;
+    padding:20px;
+}
+.login
+{
+    text-align: center;
+}
+.tablecenter
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+.buttonright
+{
+    float: right;
+}
+.linkcenter
+{
+    padding:10px;
+    text-align: center;
+}
+.center2
+{
+    margin: auto;
+    width:80%;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+.center3
+{
+    margin: auto;
+    width:80%;
+    padding: 20px;
+}
+.center4
+{
+    margin: auto;
+    width:40%;
+}
